@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BCinemática</string>
+    <string-array name="friction">
+        <item>00 mm/s\u00B2</item>
+        <item>10 mm/s\u00B2</item>
+        <item>25 mm/s\u00B2</item>
+        <item>30 mm/s\u00B2</item>
+    </string-array>
+
+    <string name="a1">00 mm/s\u00B2</string>
+    <string name="a2">10 mm/s\u00B2</string>
+    <string name="a3">20 mm/s\u00B2</string>
+    <string name="a4">30 mm/s\u00B2</string>
+    <string name="des">Desaceleração</string>
+    <string name="tipo_mov">Tipo do movimento</string>
+
+    <string name="MRU">MRU</string>
+    <string name="MRUV">MRUV</string>
+
+</resources>
